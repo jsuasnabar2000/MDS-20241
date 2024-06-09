@@ -1,6 +1,7 @@
+
 ## <center>GUIA DE LABORATORIO N° 9<center>
 >Intitución                 |Universidad Nacional del Centro del Perú   |
->-------------------------  | ------------------------------            |
+>---------------------------|-------------------------------------------|
 >**Programa de Estudios:**  | Ingeniería de Sistemas                    |
 >**Asignatura:**            | Metodología de Desarrollo de Software     |
 >**Docente:**               | Jaime Suasnábar Terrel                    |
